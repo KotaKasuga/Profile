@@ -1,0 +1,41 @@
+@media (max-width: 1200px) {
+    .profile-section {
+        display: inline-block;
+    }
+
+    .human-img {
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+
+
+}
+
+
+
+
+@media (max-width: 767px) {
+    .top {
+        font-size: 30px;
+    }
+
+    .profile-section {
+        display: inline-block;
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+
+    .human-img {
+        margin-right: 0px;
+        width: 300px;
+    }
+
+    .sentences {
+        font-size: 16px;
+    }
+
+    footer {
+        font-size: 16px;
+    }
+}
